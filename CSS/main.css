@@ -1,0 +1,16 @@
+
+html {
+    scroll-behavior: smooth;
+  }
+
+.subtitle{
+    font-weight: bold;
+}
+
+.programming-languages i{
+    font-size: 7em;
+}
+body{
+    background-image:url("https://i.pinimg.com/originals/e7/82/f2/e782f26191379c9f406a084477234347.jpg");
+    font-family: 'Courier New', Courier,monospace;
+}
